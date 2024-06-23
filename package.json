@@ -1,0 +1,26 @@
+{
+  "name": "nodejscheck",
+  "version": "1.0.0",
+  "description": "nodejs check",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmifunx/nodejscheck.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Mifun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmifunx/nodejscheck/issues"
+  },
+  "homepage": "https://github.com/xmifunx/nodejscheck#readme",
+  "dependencies": {
+    "@xmifunx/ajs": "^1.0.0"
+  }
+}
